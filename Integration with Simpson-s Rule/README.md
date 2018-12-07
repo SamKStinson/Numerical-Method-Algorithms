@@ -1,4 +1,4 @@
-# Integration Using Simpsons 1/3 Rule
+# Integration Using Simpson's 1/3 Rule
 ### This algorithm will approximate the integral over a data set using Simpsons 1/3 rule and the trapizoidal rule if necessary
 ##### Limitations
   * This algorithm will show an error if the data inputted is not equally spaced with respect to the x axis
