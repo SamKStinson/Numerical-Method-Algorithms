@@ -3,8 +3,9 @@
 ##### Limitations
   * This will only work when given a function of a single variable
   * This will not work if given a data set
+  * If xl and xu don't bracket a root an error will show
 ##### Inputs
-  1. func - The function to find root of. Must be called anonymously (i.e. @(x) f(x))
+  1. func - The function to find a root of. Must be called anonymously (i.e. @(x) f(x))
   2. xl - This is a lower guess at the root, it does not have to be very accurate
   3. xu - This is an upper guess at the root, it also does not have to be very accurate
   4. es - (optional input, defaults to .001%) Stopping criterion. Once the root approximation gets within this accuracy the algorthim will stop
