@@ -6,6 +6,6 @@
   * The Matrix to be factored
 ###### **Outputs**
 1. Lower Triangular Matrix
-2. Upper Triangular Matrix
-3. Pivot Matrix
+2. Upper Triangular Matrix (optional)
+3. Pivot Matrix (optional)
 4. Inverse Matrix (optional)
