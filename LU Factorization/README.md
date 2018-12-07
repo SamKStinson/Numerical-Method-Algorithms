@@ -1,10 +1,10 @@
 # LU Factorization
 ### This is a function that uses LU factorization and can calculates the inverse of a matrix if needed
-###### Limitations
+###### **Limitations**
   * Will not work if maxtrix used is not square
-###### Inputs
+###### **Inputs**
   * The Matrix to be factored
-###### Outputs
+###### **Outputs**
 1. Lower Triangular Matrix
 2. Upper Triangular Matrix
 3. Pivot Matrix
