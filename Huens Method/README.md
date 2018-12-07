@@ -3,7 +3,7 @@
 ##### Limitations
   * This algorithm is only designed to handle ordinary differential equations
 ##### Inputs
-  1. dydt - An ordinary differential equation to be evaluated. The function must be anonymous (i.e. @(t,y) function of t and y)
+  1. dydt - An ordinary differential equation to be evaluated. The function must be anonymous (i.e. @(t,y) f(t,y))
   2. tspan - Your first and last values of t that you wish to be evaluated. Must be in the form [first,last]
   3. y0 - This is the initial value of y
   4. h - This is the step size you wish to use within your interval
@@ -11,4 +11,4 @@
   6. maxit - (optional input, will default to 50) The maximum number of iterations used to approximate any y value
 ##### Outputs
   1. t values
-  2. coorosponding y values
+  2. Coorosponding y values
